@@ -1,2 +1,2 @@
 # sokoban
-The game was made basing on pygame
+The game was made based on pygame
